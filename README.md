@@ -7,7 +7,7 @@ O desenvolvimento e a pesquisa do protocolo continuam no [repositório de desenv
 
 ## Download
 
-**[Baixar a pré-release Windows x64](https://github.com/hurricaneabel/matribox-syscon/releases/tag/v0.1.0-beta.2)**
+**[Baixar a pré-release Windows x64](https://github.com/hurricaneabel/matribox-syscon/releases/tag/v0.1.0-beta.3)**
 
 A primeira distribuição é uma versão portátil leve para testes: não exige instalar
 Python ou bibliotecas. O motor de separação de stems por IA não está incluído.
@@ -22,9 +22,11 @@ Python ou bibliotecas. O motor de separação de stems por IA não está incluí
 O perfil inicial é Oficial. O aplicativo não instala firmware automaticamente.
 Preferências e logs são criados na pasta `userdata`.
 
-## Correção beta.2
+## Correção beta.3 — arte padrão dos Clones
 
-Detecção das portas MIDI da Matribox com numeração variável no Windows, incluindo
+Calibração independente para a arte padrão dos Clones, corrigindo knobs, LED e plaquinha deslocados na versão portátil. Build 20261108-091022 testada pelo mantenedor.
+
+Mantida a detecção das portas MIDI da Matribox com numeração variável no Windows, incluindo
 `Matribox II Pro Subdevice 3`. Não exige trocar driver nem atualizar firmware.
 Baixe e extraia o novo ZIP para usar a correção.
 
