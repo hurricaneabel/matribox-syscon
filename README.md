@@ -24,9 +24,21 @@ Preferências e logs são criados na pasta `userdata`.
 
 ## Novidades da beta.6
 
+Correções:
+
+- **NAM:** depois de importar um NAM, os knobs do bloco paravam de responder no SysCon.
+  Agora os controles continuam funcionando após a importação.
+- **`.prst` no perfil Lab:** não era possível importar arquivos `.prst` com o firmware Lab.
+  Agora o menu do preset no perfil Lab tem "Importar .prst", além de "Importar .labprst".
+- **Aviso de tamanho do nome ao importar NAM:** o SysCon mostrava um aviso indevido sobre
+  o número de caracteres do nome, por diferença entre o que a pedaleira recebia e o que
+  devolvia ao SysCon. O aviso foi corrigido.
+
+Outras mudanças:
+
+- Miniaturas da biblioteca para os Clones 11–20.
 - O pacote passa a incluir o contrato de licença de uso (`LICENSE.txt`) e os avisos
   dos componentes de terceiros (`THIRD_PARTY_NOTICES.txt`).
-- Miniaturas da biblioteca para os Clones 11–20.
 - Mantidas as correções anteriores: detecção das portas MIDI com numeração variável no
   Windows, conexão com IDs internos não sequenciais nos presets e correção visual dos Clones.
 
