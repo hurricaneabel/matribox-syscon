@@ -7,7 +7,7 @@ O desenvolvimento e a pesquisa do protocolo continuam no [repositório de desenv
 
 ## Download
 
-**[Baixar a pré-release Windows x64](https://github.com/hurricaneabel/matribox-syscon/releases/tag/v0.1.0-beta.4)**
+**[Baixar a pré-release Windows x64](https://github.com/hurricaneabel/matribox-syscon/releases/tag/v0.1.0-beta.5)**
 
 A primeira distribuição é uma versão portátil leve para testes: não exige instalar
 Python ou bibliotecas. O motor de separação de stems por IA não está incluído.
