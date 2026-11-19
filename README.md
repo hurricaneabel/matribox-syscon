@@ -10,13 +10,13 @@ Presets, pedais e controles em uma interface visual feita para explorar seus tim
 [![Distribuição](https://img.shields.io/badge/Distribui%C3%A7%C3%A3o-port%C3%A1til-425b69?style=flat-square)](#comece-a-tocar)
 [![Status](https://img.shields.io/badge/Status-pr%C3%A9--release-e7ac52?style=flat-square)](#compatibilidade)
 
-**[Baixar para Windows](https://github.com/hurricaneabel/matribox-syscon/releases/tag/v0.1.0-beta.6)** · **[Primeiros passos](#comece-a-tocar)** · **[Relatar um problema](https://github.com/hurricaneabel/matribox-syscon/issues)**
+**[Baixar para Windows](https://github.com/hurricaneabel/matribox-syscon/releases/tag/v1.0-beta)** · **[Primeiros passos](#comece-a-tocar)** · **[Relatar um problema](https://github.com/hurricaneabel/matribox-syscon/issues)**
 
 [![Apoie o SysCon](https://img.shields.io/badge/Buy_Me_a_Coffee-Apoie_o_SysCon-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000)](https://buymeacoffee.com/matribox.syscon)
 
 </div>
 
-> **Download disponível: v0.1.0-beta.6 · Windows x64 · Pré-release.** O apoio ao projeto é voluntário e não libera recursos exclusivos.
+> **Download disponível: v1.0-beta · Windows x64 · Pré-release.** O apoio ao projeto é voluntário e não libera recursos exclusivos.
 
 ---
 
@@ -67,7 +67,7 @@ O perfil inicial é **Oficial**. O aplicativo não instala firmware automaticame
 
 Correções, novidades e limitações de cada versão ficam nas **[notas de release](https://github.com/hurricaneabel/matribox-syscon/releases)**. Consulte-as para confirmar quais recursos estão incluídos no arquivo que você vai baixar.
 
-Na **beta.6**, as correções incluem controles NAM que deixavam de responder após a importação, importação `.prst` no perfil Lab e aviso indevido de tamanho de nomes NAM. O pacote também inclui miniaturas dos Clones 11–20 e os avisos de licença. [Veja as notas completas](https://github.com/hurricaneabel/matribox-syscon/releases/tag/v0.1.0-beta.6).
+Na **1.0-beta**, o SysCon acompanha o firmware Lab 10: roteamento A/B sem gastar slots, os efeitos Transposer, Classic e Modern Stereolizer, Arena e Cloud, Preset CTRL 2/3, Scene + Stomp, Bank on Hold, FS Mode, os 3 perfis de Global EQ com vínculo por preset, Drum Sync e Auto Rec do Looper e macros sem MIDI Clock. O download ficou muito menor (cerca de 460 MB). [Veja as notas completas](https://github.com/hurricaneabel/matribox-syscon/releases/tag/v1.0-beta).
 
 Encontrou um problema? **[Abra uma issue](https://github.com/hurricaneabel/matribox-syscon/issues/new)** com:
 
