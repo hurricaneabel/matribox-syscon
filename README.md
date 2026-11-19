@@ -12,7 +12,8 @@ Presets, pedais e controles em uma interface visual feita para explorar seus tim
 
 **[Baixar para Windows](https://github.com/hurricaneabel/matribox-syscon/releases/tag/v1.0-beta)** · **[Primeiros passos](#comece-a-tocar)** · **[Relatar um problema](https://github.com/hurricaneabel/matribox-syscon/issues)**
 
-[![Apoie o SysCon](https://img.shields.io/badge/Buy_Me_a_Coffee-Apoie_o_SysCon-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000)](https://buymeacoffee.com/matribox.syscon)
+[![Apoie pelo APOIA.se](https://img.shields.io/badge/APOIA.se-Apoio_no_Brasil-EA5B70?style=for-the-badge)](https://apoia.se/matriboxsyscon)
+[![Apoie pelo Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-International_support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000)](https://buymeacoffee.com/matribox.syscon)
 
 </div>
 
@@ -78,7 +79,10 @@ Encontrou um problema? **[Abra uma issue](https://github.com/hurricaneabel/matri
 
 ## Apoie o desenvolvimento
 
-O SysCon é desenvolvido de forma independente. Se ele faz parte dos seus timbres, você pode apoiar a continuidade do projeto pelo **[Buy Me a Coffee](https://buymeacoffee.com/matribox.syscon)**.
+O SysCon é desenvolvido de forma independente. Se ele faz parte dos seus timbres, você pode apoiar a continuidade do projeto pela plataforma de sua preferência:
+
+- **[APOIA.se — apoio no Brasil](https://apoia.se/matriboxsyscon)**
+- **[Buy Me a Coffee — apoio internacional](https://buymeacoffee.com/matribox.syscon)**
 
 **O apoio é totalmente voluntário.** Usar o aplicativo não exige contribuição. Quem apoia recebe os mesmos recursos e atualizações que todos os outros usuários: não há funções exclusivas, versões antecipadas nem prioridade de suporte em troca de doações.
 
